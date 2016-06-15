@@ -1,13 +1,5 @@
 
-/**
-* FILE: riemann_erroneo.c
-* DESCRIPTION:
-*       Implementacion de la suma de Riemann para calcular el area bajo la
-*       curva.
-* AUTHOR: John Sanabria - john.sanabria@correounivalle.edu.co
-* LAST REVISED: 14/04/16
-* REFERENCES: http://mathinsight.org/calculating_area_under_curve_riemann_sums
-******************************************************************************/
+
 
 #include <stdio.h>
 #include <pthread.h>
